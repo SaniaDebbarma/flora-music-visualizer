@@ -1,3 +1,3 @@
 # flora-music-visualizer
-[▶️ Watch Demo](flower-bloom-music-visualizer.mp4)
+[▶️ Watch Demo](flower-bloom-music-visualizer.MP4)
 
